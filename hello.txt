@@ -4,3 +4,5 @@ kazi
 mathina
 kazi
 sayeda
+remove
+test
